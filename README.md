@@ -41,7 +41,7 @@ Espero que você tenha gostado de explorar meu perfil intergaláctico. Se estive
 
 
 
- My Stack:
+ My Stack 💻:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,figma,vscode,git,github&theme=dark" />
 
