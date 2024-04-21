@@ -7,7 +7,7 @@ Sobre Mim 🚀
 
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/iLoysyYXknEAAAAC/anime-computer.gif" width="350" height="200" />
+  <img src="https://media1.tenor.com/m/iLoysyYXknEAAAAC/anime-computer.gif" width="350" height="180" />
 </p>
 
 <br> 
