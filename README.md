@@ -1,6 +1,5 @@
-Olá, mundo! 👋
 
-Sobre Mim 🚀
+<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=9F2129&vCenter=true&width=435&lines=Hi!;Im+Taina+Borges!;Full+Front+End..."/> 👋
 
 
 <br> 
